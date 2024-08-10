@@ -20,15 +20,25 @@ The primary objective of the redesign is to enhance Snapdeal's e-commerce platfo
 
 ## Key Activities:
 User Research: Understand user needs and analyze current data.
+
 Product Discovery: Improve navigation, search, and personalized recommendations.
+
 Product Presentation: Enhance product detail pages with better visuals, descriptions, and reviews.
+
 Checkout Process: Simplify and streamline checkout for faster, easier transactions.
+
 Responsive Design: Ensure a seamless, mobile-first experience across all devices.
+
 UI/UX Improvements: Modernize design with intuitive navigation and consistent visuals.
+
 A/B Testing: Continuously optimize the website through testing and user feedback.
+
 Accessibility: Make the website inclusive and accessible to all users.
+
 Advanced Features: Integrate AI chatbots, AR, and enhanced loyalty programs.
+
 Post-Launch Support: Monitor and improve the site after launch.
+
 
 ## Technologies Used:
 Figma -A cloud-based design tool for real-time collaboration, allowing teams to work together on UI/UX designs, wireframes, and prototypes. Offers features for design systems, version control, and interactive prototyping.
