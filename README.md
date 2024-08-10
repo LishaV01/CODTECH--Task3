@@ -34,6 +34,11 @@ Post-Launch Support: Monitor and improve the site after launch.
 Figma -A cloud-based design tool for real-time collaboration, allowing teams to work together on UI/UX designs, wireframes, and prototypes. Offers features for design systems, version control, and interactive prototyping.
 
 ## Output
-![Screenshot 2024-08-10 150622](https://github.com/user-attachments/assets/96fc3860-2f04-4fd9-a08b-c3c65d35a509)
 
-![Screenshot 2024-08-10 150730](https://github.com/user-attachments/assets/4bbe8347-d30d-451a-b996-310b542fc695)
+![Screenshot 2024-08-10 150944](https://github.com/user-attachments/assets/77d7d66f-ef08-4bcc-a640-f884848e7df4)
+![Screenshot 2024-08-10 150730](https://github.com/user-attachments/assets/6dd4c55d-3004-4cd0-9728-936f456eceea)
+
+
+https://github.com/user-attachments/assets/f914e5a8-a384-40e7-b04f-bb9a21964db7
+
+
